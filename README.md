@@ -31,7 +31,7 @@ After installation, run the application using this command:
 npm run dev
 ```
 
-Visit the site [here](https://weatherdashboard-pt8t.onrender.com).
+Visit the site [here]().
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
