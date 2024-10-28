@@ -8,6 +8,11 @@ form {
     font-weight: bold;
   }
   
+  input, textarea, button {
+    align-items: center;
+    justify-content: center;
+  }
+
   input, textarea {
     width: 100%;
     padding: 0.5rem;
