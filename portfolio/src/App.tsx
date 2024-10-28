@@ -7,6 +7,8 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import './App.css';
 
+document.title = `Ethan Carr`;
+
 function App() {
   return (
     <Router>
