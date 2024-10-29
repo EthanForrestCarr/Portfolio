@@ -41,12 +41,10 @@ function Contact() {
     e.preventDefault();
     if (validate()) {
       alert('Form submitted successfully!');
-      // send formData to an API or email service
       setFormData({ name: '', email: '', message: '' });
     }
   };
 
-  // Handler for input change
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });

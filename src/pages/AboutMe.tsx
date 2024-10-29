@@ -1,4 +1,5 @@
 import chester from "../assets/images/Chester.jpeg"
+import "./AboutMe.css"
 
 function AboutMe() {
     return (

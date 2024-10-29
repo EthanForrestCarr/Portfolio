@@ -5,7 +5,11 @@ function Resume() {
     <section>
       <h2 className="title">Resume</h2>
       <a href="https://docs.google.com/document/d/1R-j1-zTSrnJofh_yc6CDQ6uIWZV6lHMsUTccLS7UDHY/edit?usp=sharing" download>Download Resume</a>
+      <br />
+      <br />
+      <br />
       <h3 className="title">Proficiencies</h3>
+      <br />
       <ul className="proficiencies">
         <li className="proficiency">HTML</li>
         <li className="proficiency">CSS</li>
