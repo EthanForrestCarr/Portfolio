@@ -1,16 +1,16 @@
 footer {
-    background-color: #333;
+    background-color: #1d3557;
     color: white;
     padding: 1rem;
     text-align: center;
 }
 
 footer a {
-    color: #FFD700;
+    color: #a8dadc;
     text-decoration: none;
     margin: 0 0.5rem;
 }
 
 footer a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
